@@ -12,9 +12,18 @@ Abstract of the repository
 
 
 ### Dataset description
+Source:
+https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan
+
 * Dataset contains 100 engines running to fail 6 times
 * 3 times will be use for training and 3 times for testing
 * Every engine have 21 sensors and 3 op settings
+
+Data Set: FD001
+	• Train trjectories: 100
+	• Test trajectories: 100
+	• Conditions: ONE (Sea Level)
+Fault Modes: ONE (HPC Degradation)
 
 
 
