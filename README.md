@@ -1,5 +1,5 @@
-# Topic of the document
-### Description of the document, purpose of the document
+# Predictive maintenance use case
+### NASA Dataset
 
 <img align="center" src="https://cdn.pixabay.com/photo/2012/11/28/10/34/rocket-launch-67643_1280.jpg">
 
@@ -11,6 +11,10 @@ Abstract of the repository
 
 
 
+### Dataset description
+* Dataset contains 100 engines running to fail 6 times
+* 3 times will be use for training and 3 times for testing
+* Every engine have 21 sensors and 3 op settings
 
 
 
