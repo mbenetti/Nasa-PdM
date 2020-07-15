@@ -8,10 +8,6 @@ Abstract of the repository:
   This repository contain a jupyter notebook with an exploratory analysis and a predictive model for maintenance. 
   
 ***
-<img align="center" width="300" height="200" src="https://cdn.pixabay.com/photo/2014/06/18/16/31/jet-engine-371412_1280.jpg">
-
-
-
 
 ### Dataset description
 Source:
