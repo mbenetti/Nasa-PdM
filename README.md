@@ -18,10 +18,11 @@ https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbof
 * Every engine have 21 sensors and 3 op settings
 
 Data Set: FD001
-	* Train trjectories: 100
-	* Test trajectories: 100
-	* Conditions: ONE (Sea Level)
-Fault Modes: ONE (HPC Degradation)
+
+* Train trjectories: 100
+* Test trajectories: 100
+* Conditions: ONE (Sea Level)
+* Fault Modes: ONE (HPC Degradation)
 
 
 
