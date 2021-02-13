@@ -5,7 +5,7 @@
 
 Abstract of the repository:
   
-  This repository contain a jupyter notebook with an exploratory analysis and a predictive model for maintenance. 
+  This repository contains a jupyter notebook with an exploratory analysis and a predictive model for maintenance. 
   
 ***
 
@@ -19,7 +19,7 @@ https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbof
 
 Data Set: FD001
 
-* Train trjectories: 100
+* Train trajectories: 100
 * Test trajectories: 100
 * Conditions: ONE (Sea Level)
 * Fault Modes: ONE (HPC Degradation)
