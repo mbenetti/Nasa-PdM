@@ -1,7 +1,8 @@
 # Predictive maintenance use case
 ### NASA Dataset
 
-<img align="center" src="https://pixabay.com/photos/rocket-launch-rocket-take-off-67646/">
+
+![rocket-launch-67646_1280](https://github.com/mbenetti/Nasa-PdM/assets/27162948/94e48ec7-5693-4d03-8150-32ec0f2f4ccb)
 
 Abstract of the repository:
   
